@@ -1,0 +1,17 @@
+/*https://flatuicolors.com/palette/us */
+/* dracula orchid #2d3436 */
+/* city lights #dfe6e9 */
+body {
+  align-items: center;
+  background-color: #2d3436; 
+  display: flex;
+  font-family: 'IBM Plex Sans', sans-serif;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.container {
+  background-color: #dfe6e9;
+  max-height: 500px;
+  max-width: 500px;
+}
